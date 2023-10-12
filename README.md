@@ -1,5 +1,3 @@
-# DEDUCE
-
 
 # DEDUCE: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data
 
@@ -39,10 +37,13 @@ Comparison of DEDUCE with 11 other methods on three datasets:
 ![图22](https://github.com/pengsl-lab/DEDUCE/assets/67091321/955d20a8-c9c6-45ef-b49e-dbfe14fae084)
 
 **Single-cell dataset**:
-![Uploading 图3.jpg…]()
+![图3](https://github.com/pengsl-lab/DEDUCE/assets/67091321/e1f8531a-43e3-426e-9137-fd502f08be5b)
+
+
 
 **Cancer Multi-Omics Dataset**: 
-![Uploading 图4.jpg…]()
+![图4](https://github.com/pengsl-lab/DEDUCE/assets/67091321/5f61ec53-5233-4f8c-ab7a-060f643a8160)
+
 
 
 
